@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 /*
-	Println prints on one line
-	Printf formats according to specifier
+Println prints on one line
+Printf formats according to specifier
 */
 
 func main() {

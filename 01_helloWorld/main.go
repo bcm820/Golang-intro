@@ -1,4 +1,4 @@
-package main // normally uses name of folder
+package main
 
 import "fmt" // can import multiple via ()
 
