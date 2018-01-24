@@ -1,4 +1,4 @@
-Following Todd McLeod's tutorials:
-https://www.udemy.com/learn-how-to-code/
+Following Todd McLeod's materials:
+https://www.greatercommons.com/
 
 NOTE: Package names are not idiomatic for this repo
