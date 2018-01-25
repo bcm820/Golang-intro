@@ -22,10 +22,12 @@ func main() {
 1. package scope
 2. block scope
 
-closure helps us limit the scope of variables used by multiple functions
+Closure helps us limit the scope of variables used by multiple functions
 without closure, for two or more funcs to have access to the same variable,
 that variable would need to be package scope
 
-in this example, x is scoped within the wrapper func, which when called, returns an anonymous func that increments and returns x (which it has access to since it is inside of wrapper's scope).
+In this example, x is scoped within the wrapper func, which when called,
+returns an anonymous func that increments and returns x (which it has access
+to since it is inside of wrapper's scope).
 
 */

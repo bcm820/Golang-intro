@@ -4,7 +4,7 @@ import "fmt"
 
 // two primary ways to declare variables
 // 1. shorthand: only used inside a func
-// 2. using var to assign/initialize
+// 2. using var or const to assign/initialize
 // there are others, but these are preferred
 
 func shorthand() {
@@ -24,7 +24,6 @@ var e = "homeboy"
 
 // you can declare multiple variables
 // by listing them out!
-// this also works using var
 
 func multDeclare() {
 	a, b, c, d := 1, false, "haha", `huh`
